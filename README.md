@@ -6,7 +6,9 @@
 This is new software and subject to bugs. Please submit bug reports via github so we can improve and debug for more stable code.
 
 #### Usage:
-```kicad_cnc inputfile outputfile.gcode command
+```
+kicad_cnc inputfile outputfile.gcode command
+
 ```
 As of v0.1 the only command you can enter is print. This prints the gcode to the screen.
 
